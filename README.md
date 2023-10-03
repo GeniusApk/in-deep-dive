@@ -45,7 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/in-deep-dive/in-deep-dive/output/snake.svg" alt="Snake animation" />
 
 ###
 
